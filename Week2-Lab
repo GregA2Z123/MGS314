@@ -1,0 +1,23 @@
+print(9-4)
+print(6%2)
+print(6*2)
+g2 = 5
+print(g2+3)
+g3 = 123
+print(g3)
+print (g2 + g3)
+
+v1 = 10
+v2 = 50
+v3 = 100
+
+v4 = ((v2/v1))
+
+print (v3/v4)
+
+print (v1%v4)
+print ((v2/v3)*100)
+
+m1 = 'I am a student'
+print (m1)
+print (m1[5])
